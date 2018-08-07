@@ -37,4 +37,4 @@ java -jar target\s3_image_uploader-0.0.1-SNAPSHOT.jar
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/nadunc/AWS-S3-image-uploader-with-java-spring-boot/blob/master/LICENSE) file for details
