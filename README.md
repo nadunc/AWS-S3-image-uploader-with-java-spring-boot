@@ -6,10 +6,21 @@ Simple Amazon Web Services S3 Image uploader developed with java
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+* AWS S3 Documentation https://aws.amazon.com/documentation/s3/
+
 ### Prerequisites
 
 * Apache Maven
 * JDK 1.7+
+
+### Configuration
+* Modify **application.properties** file with your aws s3 credentials
+```
+app.aws.iam.accesskey=<add-your-access-key>
+app.aws.iam.secretkey=<add-your-secret-key>
+app.aws.s3.clientregion=<add-your-s3-client-region>
+app.aws.s3.bucketname=<add-your-s3-bucket-name>
+```
 
 ### Building & Running
 
