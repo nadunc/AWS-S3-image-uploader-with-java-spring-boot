@@ -35,6 +35,7 @@ mvn clean package
 ```
 java -jar target\s3_image_uploader-0.0.1-SNAPSHOT.jar
 ```
+* Check running application at : http://localhost:8080
 
 
 ## Built With
