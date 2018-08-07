@@ -1,2 +1,1 @@
-*.C linguist-language=java
-*.H linguist-language=java
+*.rb linguist-language=Java
