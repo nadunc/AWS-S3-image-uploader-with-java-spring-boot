@@ -1,4 +1,4 @@
-# AWS-S3-image-uploader-with-java-spring-boot
+# AWS S3 image uploader with java spring boot
 
 Simple Amazon Web Services S3 Image uploader developed with java 
 
